@@ -53,18 +53,20 @@ body.hide {
 }
 
 .nav-header {
-  position: relative;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
   min-height: 10vh;
   font-size: 1rem;
   display: flex;
   align-items: center;
   justify-content: space-between;
   color: white;
-  width: 80%;
-  margin: auto;
   padding: 2rem 0rem;
   z-index: 2;
 }
+
 
 .line1,
 .line2 {
