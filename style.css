@@ -53,7 +53,7 @@ body.hide {
 }
 
 .nav-header {
-  position: fixed;
+  position: relative;
   min-height: 10v;
   font-size: 1rem;
   display: flex;
