@@ -54,7 +54,7 @@ body.hide {
 
 .nav-header {
   position: relative;
-  min-height: 10v;
+  min-height: 10vh;
   font-size: 1rem;
   display: flex;
   align-items: center;
