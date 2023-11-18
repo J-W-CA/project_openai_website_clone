@@ -180,6 +180,8 @@ body.hide {
   opacity: 1;
   clip-path: circle(50px at 100% -10%);
   -webkit-clip-path: circle(50px at 100% -10%);
+  overflow-y: auto;  /* 添加这行样式，启用垂直滚动条 */
+  max-height: 100vh; /* 设置最大高度为视口高度，以防止内容过长 */
 }
 
 .burger {
