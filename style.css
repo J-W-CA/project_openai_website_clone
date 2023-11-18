@@ -38,14 +38,7 @@ body.hide {
 #logo {
   color: white;
   font-family: 'Abril Fatface';
-  margin-right: 20px; /* 调整右侧的间距，根据需要进行调整 */
 }
-
-#logo img {
-  max-width: 100%;
-  height: auto;
-}
-
 
 .hero-cover {
   position: absolute;
@@ -73,7 +66,6 @@ body.hide {
   padding: 2rem 0rem;
   z-index: 2;
 }
-
 
 .line1,
 .line2 {
